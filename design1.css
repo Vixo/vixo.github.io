@@ -1,0 +1,30 @@
+body{
+	background: #101010;
+	color: #fff;
+	font-family: "Lucida Grande", Helvetica, Verdana, Arial, Helvetica, sans-serif;
+}
+.box{
+	background: url(bg_viso_3.png) no-repeat top;
+	text-align: center;
+	margin-top: 150px;
+	padding-top: 200px;
+}
+.title{
+	display: none;
+	font-size: 8em;
+	font-weight: normal;
+}
+.contact{
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-radius: 5px;
+	background: #222;
+	border: 1px solid #333;
+	color: #fff;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	width: 150px;
+}
